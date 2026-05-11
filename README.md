@@ -84,29 +84,7 @@ This task was completed as part of the **Future Interns Cybersecurity Internship
 
 ---
 
-## 📁 Repository Contents
 
-```
-phishing-awareness-report/
-│
-├── README.md                          ← Project description (this file)
-├── Phishing_Awareness_Report.pdf      ← Full analysis report
-└── samples/                           ← Screenshot evidence
-    ├── email1_header.png              ← Email 1 header details
-    ├── email2_header.png              ← Email 2 header details
-    ├── email3_header.png              ← Email 3 header details
-    ├── email1_google_analyzer.png     ← Google Tool result — Email 1
-    ├── email2_google_analyzer.png     ← Google Tool result — Email 2
-    ├── email3_google_analyzer.png     ← Google Tool result — Email 3
-    ├── email1_mxtoolbox.png           ← MXToolbox result — Email 1
-    ├── email2_mxtoolbox.png           ← MXToolbox result — Email 2
-    ├── email3_mxtoolbox.png           ← MXToolbox result — Email 3
-    ├── email2_virustotal.png          ← VirusTotal scan — Email 2 URL
-    ├── email3_virustotal_1.png        ← VirusTotal scan — Email 3 URL 1
-    └── email3_virustotal_2.png        ← VirusTotal scan — Email 3 URL 2
-```
-
----
 
 ## 🛡️ Prevention Guidelines
 
