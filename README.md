@@ -108,10 +108,10 @@ This task was completed as part of the **Future Interns Cybersecurity Internship
 
 ## 👤 Intern Details
 
-- **Name:** [Your Full Name]
+- **Name:** NISHANTH
 - **Program:** Future Interns — Cybersecurity Internship
 - **Task:** Task 2 — Phishing Email Detection & Awareness System
-- **Date:** May 2026
+- **Date:**12 May 2026
 
 ---
 
